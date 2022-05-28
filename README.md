@@ -1,6 +1,6 @@
 ### Hi there, I'm [Somon](somonsoum.com) 👋
 
-## I'm a Student, Developer and Freelancer!!
+## I'm a Math, Physics teacher, Developer and Freelancer!!
 
 - 👀 I’m interested in web development, blockchain and machine learning
 - 🌱 I’m currently learning everything 🤣
