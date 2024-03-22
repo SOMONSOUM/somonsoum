@@ -1,12 +1,12 @@
 ### Hi there, I'm [Somon](somonsoum.com) 👋
 
-## I'm a guy who love tech, maths and physics!!
+## I'm a guy who loves tech, maths and physics!!
 
-- 👀 I’m interested in web development, blockchain and machine learning
+- 👀 I’m interested in web development, mobile development, blockchain and machine learning
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love listening to music, play soccer and camping
+- ⚡ Fun fact: I love listening to music, cycling and camping
 
 ### Connect with me:
 
