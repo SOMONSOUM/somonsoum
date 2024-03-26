@@ -1,4 +1,4 @@
-### Hi there, I'm [Somon](somonsoum.com) 👋
+### Hi there, I'm [Som on](somonsoum.com) 👋
 
 ## I'm a guy who loves tech, maths and physics!!
 
