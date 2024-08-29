@@ -1,4 +1,4 @@
-### Hi there, I'm [Som on](somonsoum.com) 👋
+### Hi there, I'm [Som on](https://github.com/SOMONSOUM) 👋
 
 I'm a passionate enthusiast of technology, mathematics, and physics!
 
