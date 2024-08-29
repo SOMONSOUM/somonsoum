@@ -1,12 +1,13 @@
 ### Hi there, I'm [Som on](somonsoum.com) 👋
 
-## I'm a guy who loves tech, maths and physics!!
+I'm a passionate enthusiast of technology, mathematics, and physics!
 
-- 👀 I’m interested in web development, mobile development, blockchain and machine learning
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love listening to music, cycling and camping
+- 💻 I'm interested in web development, mobile development, blockchain, and machine learning
+- 📚 I'm currently expanding my knowledge across various tech domains
+- 🤝 I'm eager to collaborate with other developers
+- 🎯 2021 Goal: Contribute more to Open Source projects
+- 🎵 Fun fact: I enjoy listening to music (especially classical Cambodian music from the 1960s-70s), cycling, and camping
+
 
 ### Connect with me:
 
